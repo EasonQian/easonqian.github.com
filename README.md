@@ -12,3 +12,5 @@ Please feel free to contact me
 * Email: wei.qian@hotmail.com
 
 > reference
+_strong text_
+**more strong text**
